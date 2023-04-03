@@ -4,7 +4,6 @@
 import random
 
 secret = random.randint(1, 100)
-print(secret)
 cnt_tries = 1 #Counter for the user's tries.
 cnt_limit = 10 #Maximum attempt limit.
 
