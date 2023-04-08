@@ -1,5 +1,9 @@
-#Mini game: Guess the number 1-100
-#Author: Dimitris Apostolakis
+"""
+*****************************************
+Mini game: Guess the number 1-100
+Author: Dimitris Apostolakis
+*****************************************
+"""
 
 import random
 
