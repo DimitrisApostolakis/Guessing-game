@@ -1,10 +1,3 @@
-"""
-*****************************************
-Mini game: Guess the number 1-100
-Author: Dimitris Apostolakis
-*****************************************
-"""
-
 import random
 
 secret = random.randint(1, 100)
